@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Perimeter Notes
+# 🛡️ Perimeter
 ### Blue Team Practitioner | SOC · DFIR · Threat Intel · Malware Analysis
 
 [![Status](https://img.shields.io/badge/Status-Active_Development-blue?style=flat-square&logo=git&logoColor=white)]()
@@ -15,14 +15,14 @@
 
 ## 🧭 About the Repository
 
-**Perimeter Notes** documents my path as a Blue Team practitioner, from foundational SOC operations to advanced Digital Forensics & Incident Response (DFIR) and malware analysis. Rather than focusing narrowly on tooling, this repository covers the full defensive lifecycle: detecting and triaging events, investigating incidents end-to-end, hunting for threats in logs and network traffic, and building the custom scripts that support those workflows. Designed to run efficiently on local, lightweight infrastructure, it serves as both a training log and a functional workspace for methodically dissecting adversarial tradecraft.
+**Perimeter** documents my path as a Blue Team practitioner, from foundational SOC operations to advanced Digital Forensics & Incident Response (DFIR) and malware analysis. Rather than focusing narrowly on tooling, this repository covers the full defensive lifecycle: detecting and triaging events, investigating incidents end-to-end, hunting for threats in logs and network traffic, and building the custom scripts that support those workflows. Designed to run efficiently on local, lightweight infrastructure, it serves as both a training log and a functional workspace for methodically dissecting adversarial tradecraft.
 
 ---
 
 ## 📂 Repository Architecture
 
 ```text
-perimeter-notes/
+perimeter/
 ├── tools/                  # Custom defensive scripts and automation
 │   ├── log-parser-java/    # Security log ingestion and correlation engine (Java)
 │   └── hardening-script-bash/ # Linux OS baseline hardening automation
