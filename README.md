@@ -17,8 +17,6 @@
 
 **Perimeter** documents my path as a Blue Team practitioner, from foundational SOC operations to advanced Digital Forensics & Incident Response (DFIR) and malware analysis. Rather than focusing narrowly on tooling, this repository covers the full defensive lifecycle: detecting and triaging events, investigating incidents end-to-end, hunting for threats in logs and network traffic, and building the custom scripts that support those workflows. Designed to run efficiently on local, lightweight infrastructure, it serves as both a training log and a functional workspace for methodically dissecting adversarial tradecraft.
 
-```
-
 ---
 
 ## ⚙️ Blue Team Skillset & Tooling
