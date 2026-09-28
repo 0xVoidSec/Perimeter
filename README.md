@@ -17,26 +17,6 @@
 
 **Perimeter** documents my path as a Blue Team practitioner, from foundational SOC operations to advanced Digital Forensics & Incident Response (DFIR) and malware analysis. Rather than focusing narrowly on tooling, this repository covers the full defensive lifecycle: detecting and triaging events, investigating incidents end-to-end, hunting for threats in logs and network traffic, and building the custom scripts that support those workflows. Designed to run efficiently on local, lightweight infrastructure, it serves as both a training log and a functional workspace for methodically dissecting adversarial tradecraft.
 
----
-
-## 📂 Repository Architecture
-
-```text
-perimeter/
-├── tools/                  # Custom defensive scripts and automation
-│   ├── log-parser-java/    # Security log ingestion and correlation engine (Java)
-│   └── hardening-script-bash/ # Linux OS baseline hardening automation
-└── writeups/               # Blue Team investigations: SOC triage, DFIR & threat hunting
-    ├── 01-logjammer/       # [Easy] Log triaging and event correlation
-    ├── 02-bumblebee/       # [Easy] Forensic artifact extraction
-    ├── 03-pikaptcha/       # [Easy] Network and traffic inspection
-    ├── 04-subatomic/       # [Medium] Intermediate threat hunting
-    ├── 05-holmes-2-watchmans-residue/ # [Medium] Deep investigative tracking
-    ├── 06-holmes-4-tunnel-without-walls/ # [Hard] Advanced network pivoting
-    ├── 07-lockpick3/       # [Hard] System tampering and analysis
-    ├── 08-safecracker/     # [Insane] Complex binary & structural compromise
-    ├── 09-stonks/          # [Insane] High-complexity threat isolation
-    └── 10-kamikaze/        # [Insane] Advanced malware tradecraft & forensics
 ```
 
 ---
