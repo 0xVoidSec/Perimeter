@@ -24,10 +24,8 @@
 * **SOC & Monitoring:** Log analysis and correlation, alert triage, SIEM-style workflows.
 * **DFIR:** Forensic artifact extraction, timeline reconstruction, incident investigation end-to-end.
 * **Threat Hunting & Network Analysis:** Wireshark, traffic inspection, native Linux CLI utilities (`grep`, `awk`, `jq`).
-* **Malware Analysis (in progress):** Static/behavioral analysis fundamentals, building toward reverse engineering.
-* **Scripting & Tooling:** Java (log parsing), Bash (automation & hardening).
-* **Platforms & Labs:** Hack The Box (Sherlocks).
-* **Environment:** Native Linux Mint XFCE (terminal-first, resource-optimized workflow).
+* **Malware Analysis:** Static/behavioral analysis fundamentals, building toward reverse engineering.
+* **Platforms & Labs:** Hack The Box, TryHackMe, CyberDefenders, Blue Team Labs Online, etc.
 
 ---
 *Author: Johan Emilio Regalado Cuesta*
