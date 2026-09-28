@@ -1,13 +1,10 @@
 # PsExecHunt - WriteUp
 
-**Platform:** CyberDefenders
-**Category:**  Network Forensics
-**Difficult:** Easy
-**Tactics:** Execution, Defense Impairment, Discovery, Lateral Movement
-**Tool:** Wireshark
-
-
-
+* **Platform:** CyberDefenders
+* **Category:** Network Forensics
+* **Difficulty:** Easy
+* **Tactics:** Execution, Defense Impairment, Discovery, Lateral Movement
+* **Tool:** Wireshark
 
 
 # Scenario
