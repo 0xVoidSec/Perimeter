@@ -6,8 +6,6 @@
 **Tactics:** Execution, Defense Impairment, Discovery, Lateral Movement
 **Tool:** Wireshark
 
-# Summary
-
 
 # Scenario
 
