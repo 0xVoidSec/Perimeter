@@ -1,4 +1,4 @@
-# PsExecHunt - WriteUp
+# PsExecHunt
 
 * **Platform:** CyberDefenders
 * **Category:** Network Forensics
