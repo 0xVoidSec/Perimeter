@@ -84,7 +84,7 @@ This highlighted the connection request to `ADMIN$`, which PsExec requires to dr
 
 Using the same `smb2.tree` filter, I reviewed the connected shares. Alongside `ADMIN$`, the attacker connected to `IPC$`, which PsExec utilizes for inter-process communication and remote control.
 
-![Wireshark Assets](IPC-share.png)
+![Wireshark Assets](./assets/IPC-share.png)
 
 
 # Q7. Now that we have a clearer picture of the attacker's activities on the compromised machine, it's important to identify any further lateral movement. What is the hostname of the second machine the attacker targeted to pivot within our network?
