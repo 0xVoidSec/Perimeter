@@ -1,11 +1,11 @@
 
 # Web Investigation
 
-**Platform:** CyberDefenders
-**Category:** Network Forensics
-**Difficult:** Easy
-**Tactics:** Initial Access, Persistance, Command and Control
-**Tools:** Wireshark, NetworkMiner
+- **Platform:** CyberDefenders
+- **Category:** Network Forensics
+- **Difficulty:** Easy
+- **Tactics:** Initial Access, Persistence, Command and Control
+- **Tools:** Wireshark, CyberChef, Python, WhatIsMyIPAddress.com
 
 
 # Scenario
